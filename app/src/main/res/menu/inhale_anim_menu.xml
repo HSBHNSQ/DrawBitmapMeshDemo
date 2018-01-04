@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_inhale_down"
+        android:title="DOWN"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_inhale_up"
+        android:title="UP"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_inhale_left"
+        android:title="LEFT"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_inhale_right"
+        android:title="RIGHT"
+        app:showAsAction="ifRoom"/>
+</menu>
